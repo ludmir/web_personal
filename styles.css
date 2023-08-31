@@ -1,0 +1,15 @@
+/* Estilo para los encabezados */
+h1 {
+    color: #da31b5;
+    font-size: 28px;
+}
+/* Estilo para los párrafos */
+p {
+    color: #19c0aa;
+    font-size: 20px;
+}
+/* Estilo para los enlaces */
+a {
+    color: #2600ff;
+    text-decoration: none;
+}
